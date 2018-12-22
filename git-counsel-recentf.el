@@ -62,4 +62,6 @@
 			    (find-file f)))
 		:caller 'counsel-recentf))))
 
+(provide 'git-counsel-recentf)
+
 ;;; git-counsel-recentf.el ends here

@@ -1,4 +1,4 @@
-;;; git-counsel-recentf --- cycle frame transparency
+;;; git-counsel-recentf --- list files most recently opened in the current Git project via ivy interface
 
 ;; Copyright (C) 2018 Taiju Aoki
 
